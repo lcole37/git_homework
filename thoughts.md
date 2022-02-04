@@ -5,4 +5,3 @@ check calender more to keep goals
 Shoutout to Ali Nix for being a great navigator in session 2: git
 
 i believe github learning process is working
-not sure if we are supposed to do the full git workflow so here
